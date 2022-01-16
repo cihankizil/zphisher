@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+ca09f27a6c4240b5a7e08056c90c8245c5e5b135 refs/remotes/origin/docker-legacy
+75bc77c82977eb7aa0bf094de47ef164c8969208 refs/remotes/origin/master
+931f3d9feb4663b88e76e090081f5550bca1cd6a refs/tags/2.1
+22c576f1b0795a0875ffa47f94011ed46efc5a3a refs/tags/2.2
+7ea91da446243393e9e8099a569b7e4ec3861266 refs/tags/v1.1
+5ac99c53609806d7625811d131926d9144ec5a4e refs/tags/v2.0
